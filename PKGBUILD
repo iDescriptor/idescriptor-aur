@@ -25,7 +25,7 @@ depends=(
     'qt6-location'
     'avahi'
     'libsecret'
-    'gnome-keyring'
+    'org.freedesktop.secrets'
     'ffmpeg'
     'qt6-declarative'
     'qt6-5compat'
